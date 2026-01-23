@@ -16,11 +16,12 @@ I thrive on turning complex, manual processes into simple, effective solutions. 
 - Docker, Nginx, AWS, Google Cloud
 - WordPress, jQuery, Shell Scripting
 
+
 💼 **Projects:**
-1. **Preventive Maintenance System:** Internal tool for Ethio Telecom, enabling 347 users across 82 teams to manage maintenance tasks efficiently (Next.js, TypeScript, Prisma, PostgreSQL).
-2. **Wide-Area-Network-IP-Retrieval:** Graduation project for Ethiopian clients to retrieve WAN IPs for router configuration.
-3. **Gebeya-Tech-E-Commerce-Full-Stack-Web-Application:** Portfolio project for ALX graduation, featuring a robust e-commerce platform.
-4. **Ethio Coffee Export:** Web platform for Ethiopian coffee exporters. [Visit the site](https://www.ethiocoffee-export.com/)
+1. **IP Toolkit Pro:** A web-based tool for WAN IP analysis and network diagnostics, used by enterprise clients at Ethio Telecom. [Live Demo](https://ip-toolkit-pro.vercel.app/)
+2. **Preventive Maintenance System:** Internal tool for Ethio Telecom, enabling 347 users across 82 teams to manage maintenance tasks efficiently (Next.js, TypeScript, Prisma, PostgreSQL).
+3. **Wide-Area-Network-IP-Retrieval:** Graduation project for Ethiopian clients to retrieve WAN IPs for router configuration.
+4. **Gebeya-Tech-E-Commerce-Full-Stack-Web-Application:** Portfolio project for ALX graduation, featuring a robust e-commerce platform.
 
 💬 **Connect with Me:** [Telegram](https://t.me/JovaniS)  
 🌐 [Website](https://www.elianatech.com)  
