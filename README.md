@@ -31,8 +31,9 @@ I thrive on turning complex, manual processes into simple, effective solutions. 
 3. **Wide-Area-Network-IP-Retrieval:** Graduation project for Ethiopian clients to retrieve WAN IPs for router configuration.
 4. **Gebeya-Tech-E-Commerce-Full-Stack-Web-Application:** Portfolio project for ALX graduation, featuring a robust e-commerce platform.
 
+
 💬 **Connect with Me:** [Telegram](https://t.me/JovaniS)  
-🌐 [Website](https://www.elianatech.com)  
+🌐 [Portfolio / Live Project](https://ip-toolkit-pro.vercel.app/)  
 🐦 [Twitter](https://twitter.com/YohanesSenbeto)  
 📷 [Instagram](https://www.instagram.com/joni_senbeto)  
 💼 [LinkedIn](https://www.linkedin.com/in/yohanes-senbeto-61833218a/)  
