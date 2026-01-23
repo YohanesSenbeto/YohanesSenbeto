@@ -9,6 +9,7 @@ I thrive on turning complex, manual processes into simple, effective solutions. 
 
 ---
 
+
 🔭 **Languages and Tools:**
 - TypeScript, JavaScript, Python and C
 - React, Next.js, Node.js and Express
@@ -44,8 +45,12 @@ Happy Coding! 🚀
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/YohanesSenbeto) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC20UnSFgW5KadIRHbo-Rbkg)
 
+
 # 💻 Tech Stack:
+> **Most used languages:** TypeScript, JavaScript, SQL
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2300C8FF.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
