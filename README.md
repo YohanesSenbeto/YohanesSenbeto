@@ -1,69 +1,60 @@
 # 💫 About Me:
 ### Hi there, I'm Yohanes Senbeto! 👋
 
-🔭 I’m currently working on Web-based development.  
-🌱 I’ve graduated from ALX Software Engineering (Full Stack Development) and ALX AiCE - AI Career Essentials.  
-👯 I’m looking to collaborate on Frontend and Backend Development.
+**Full-Stack Developer | React, Next.js, TypeScript, Prisma, PostgreSQL | Building scalable internal tools for enterprise | Open to new opportunities**
 
-🤔 I’m looking for help with:  
-🌱 I'm currently seeking guidance on optimizing database queries for larger-scale applications. Any insights or resources on performance tuning in SQL databases, especially with complex joins and indexing strategies, would be greatly appreciated!  
-🌱 Additionally, I'm interested in learning more about containerization with Docker for deploying microservices. Any tips, best practices, or recommended tutorials on Docker and Kubernetes are welcome!
+I’m a full-stack developer at Ethio Telecom with a passion for building impactful, scalable internal tools. Recently, I designed and developed a preventive maintenance system for our network infrastructure division using Next.js, TypeScript, Prisma, and PostgreSQL. Previously, maintenance was managed with manual spreadsheets and phone calls, which made follow-up slow and tasks easy to miss. My web app now enables 347 users across 82 teams to create, assign, and track maintenance tasks in a single dashboard—significantly improving efficiency and accountability.
 
-💬 Ask me about anything related to Web Development!  
-📫 How to reach me: jonicasenbeto@gmail.com  
-😄 Pronouns: He/She
+I thrive on turning complex, manual processes into simple, effective solutions. My strengths include problem-solving, rapid learning, and collaborating with teams to deliver real business value. I’m eager to join a forward-thinking team where I can continue building high-impact systems, contribute to innovative projects, and grow as a full-stack engineer.
+
+---
 
 🔭 **Languages and Tools:**
-- HTML, CSS, JavaScript
-- React, Node.js, Express.js
-- SQL, MongoDB , Postgresql
-- C and Python
-- NextJs
-- MySQL, MongoDB
+- TypeScript, JavaScript, Python, C, SQL
+- React, Next.js, Node.js, Express.js, Flask, Bootstrap
+- PostgreSQL, MySQL, MongoDB, Prisma ORM
+- Docker, Nginx, AWS, Google Cloud
+- WordPress, jQuery, Shell Scripting
 
 💼 **Projects:**
-1. **Wide-Area-Network-IP-Retrieval**: A project designed for Ethiopian clients to retrieve WAN IP information to configure their Wi-Fi routers. This was my Computer Science Degree Graduation project from Rift Valley University, for which I received an A grade.
-2. **Gebeya-Tech-E-Commerce-Full-Stack-Web-Application**: A full-stack web application developed as my final portfolio project to graduate from ALX by Software Engineering.
-3. **Ethio Coffee Export**: A web-based website for exporting coffee in Ethiopia. [Visit the site](https://www.ethiocoffee-export.com/)
+1. **Preventive Maintenance System:** Internal tool for Ethio Telecom, enabling 347 users across 82 teams to manage maintenance tasks efficiently (Next.js, TypeScript, Prisma, PostgreSQL).
+2. **Wide-Area-Network-IP-Retrieval:** Graduation project for Ethiopian clients to retrieve WAN IPs for router configuration.
+3. **Gebeya-Tech-E-Commerce-Full-Stack-Web-Application:** Portfolio project for ALX graduation, featuring a robust e-commerce platform.
+4. **Ethio Coffee Export:** Web platform for Ethiopian coffee exporters. [Visit the site](https://www.ethiocoffee-export.com/)
 
-💬 **Connect with Me:** +https://t.me/JovaniS  
+💬 **Connect with Me:** [Telegram](https://t.me/JovaniS)  
 🌐 [Website](https://www.elianatech.com)  
 🐦 [Twitter](https://twitter.com/YohanesSenbeto)  
 📷 [Instagram](https://www.instagram.com/joni_senbeto)  
 💼 [LinkedIn](https://www.linkedin.com/in/yohanes-senbeto-61833218a/)  
-👔 [YouTube](https://www.youtube.com/channel/UC20UnSFgW5KadIRHbo-Rbkg)
+👔 [YouTube](https://www.youtube.com/channel/UC20UnSFgW5KadIRHbo-Rbkg)  
+📫 Email: jonicasenbeto@gmail.com
 
 Happy Coding! 🚀
 
+---
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yohanes6260) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/johnsenbetooromoo) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/joni_senbeto) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yohanes-senbeto-61833218a/) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@jotech50) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/YohanesSenbeto) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/johnsenbetooromoo) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joni_senbeto) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohanes-senbeto-61833218a/) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@jotech50) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/YohanesSenbeto) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC20UnSFgW5KadIRHbo-Rbkg)
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+...and more
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JovaniS&theme=react&hide_border=true&include_all_commits=false&count_private=false)  
@@ -72,3 +63,5 @@ Happy Coding! 🚀
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JovaniS&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
