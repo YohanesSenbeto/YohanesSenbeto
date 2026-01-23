@@ -10,8 +10,8 @@ I thrive on turning complex, manual processes into simple, effective solutions. 
 ---
 
 🔭 **Languages and Tools:**
-- TypeScript, JavaScript, Python, C, SQL
-- React, Next.js, Node.js, Express.js, Flask, Bootstrap
+- TypeScript, JavaScript, Python and C
+- React, Next.js, Node.js and Express
 - PostgreSQL, MySQL, MongoDB, Prisma ORM
 - Docker, Nginx, AWS, Google Cloud
 - WordPress, jQuery, Shell Scripting
