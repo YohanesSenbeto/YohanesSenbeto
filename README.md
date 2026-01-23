@@ -1,3 +1,12 @@
+[![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![License](https://img.shields.io/github/license/YohanesSenbeto/IP-Toolkit-Pro)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/YohanesSenbeto/IP-Toolkit-Pro)](https://github.com/YohanesSenbeto/IP-Toolkit-Pro/commits/main)
+[![Issues](https://img.shields.io/github/issues/YohanesSenbeto/IP-Toolkit-Pro)](https://github.com/YohanesSenbeto/IP-Toolkit-Pro/issues)
+[![Stars](https://img.shields.io/github/stars/YohanesSenbeto/IP-Toolkit-Pro?style=social)](https://github.com/YohanesSenbeto/IP-Toolkit-Pro/stargazers)
+
 # 💫 About Me:
 ### Hi there, I'm Yohanes Senbeto! 👋
 
@@ -9,14 +18,12 @@ I thrive on turning complex, manual processes into simple, effective solutions. 
 
 ---
 
-
 🔭 **Languages and Tools:**
 - TypeScript, JavaScript, Python and C
 - React, Next.js, Node.js and Express
 - PostgreSQL, MySQL, MongoDB, Prisma ORM
 - Docker, Nginx, AWS, Google Cloud
 - WordPress, jQuery, Shell Scripting
-
 
 💼 **Projects:**
 1. **IP Toolkit Pro:** A web-based tool for WAN IP analysis and network diagnostics, used by enterprise clients at Ethio Telecom. [Live Demo](https://ip-toolkit-pro.vercel.app/)
@@ -44,7 +51,6 @@ Happy Coding! 🚀
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@jotech50) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/YohanesSenbeto) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC20UnSFgW5KadIRHbo-Rbkg)
-
 
 # 💻 Tech Stack:
 > **Most used languages:** TypeScript, JavaScript, SQL
